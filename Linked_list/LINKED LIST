@@ -1,0 +1,6 @@
+//!Class node contains int val,node next.
+//* 
+class node{ int val
+ Node next ;}
+
+*/
